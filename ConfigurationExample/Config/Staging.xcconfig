@@ -1,0 +1,4 @@
+//
+//  Staging.xcconfig
+
+base_url = https.Staging.com
